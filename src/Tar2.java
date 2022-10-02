@@ -2,7 +2,9 @@
 public class Tar2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Tu nombre
+		String nombre= "Oscar";
+		System.out.println("\nBienvenido "+(nombre));
 
 	}
 
