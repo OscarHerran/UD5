@@ -27,7 +27,7 @@ public class Tar13 {
               resultado=num1/num2;
               break;
           case "^":
-              resultado=(int)Math.pow(num1, num2);
+              resultado=(int)Math.pow(num1, num2);// utilizamos el metodo Math.pow para retornar la base elevada del exponente
               break;
           case "%":
               resultado=num1%num2;
